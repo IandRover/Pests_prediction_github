@@ -11,8 +11,8 @@ import time
 pest = ['Bactroceraxxdorsalis','Bactroceraxxcucurbitae','Spodopteraxxlitura','Spodopteraxxexigua']
 
 server_name = 'http://185.27.134.9/'
-user_name= 'b8_18854503'
-password = '01025091'
+user_name= 'XXXXXXXXXXX'
+password = 'XXXXXXXX'
 
 os_path = "C://Users//Aaron//Pests_prediction_github//data//web//"
 
